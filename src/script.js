@@ -185,7 +185,7 @@ const tick = () =>
 
     // Update controls
     controls.update()
-    
+
   
     // Render
     renderer.render(scene, camera)
